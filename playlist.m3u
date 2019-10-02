@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:0,ABS NEWS
+#EXTINF:0,ABC NEWS
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 #EXTINF:0,ABC MELBOURNE
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8dfc66234f084ed881c52687b675b592/index.m3u8
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8dfc66234f084ed881c52687b675b592/index_1.m3u8
 #EXTINF:0,ABC Comedy/Kids
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/3c7653c38e0e40fbbbaeaefb02ae6fd1/index.m3u8
 #EXTINF:0,ABC ME
@@ -28,15 +28,21 @@ https://pac12b.cdn.7livecloud.io/index.m3u8
 #EXTINF:0,Outdoor Channel
 https://outdoor.cdn.7livecloud.io/index.m3u8
 #EXTINF:0,9 Melbourne
-https://9now-live.akamaized.net/hls/live/708954-b/ch9-mel/master.m3u8
+https://9now-live.akamaized.net/hls/live/708954-b/ch9-mel/master1.m3u8
 #EXTINF:0,9 Perth
-https://9now-live.akamaized.net/hls/live/708953-b/ch9-per/master.m3u8
+https://9now-live.akamaized.net/hls/live/708953-b/ch9-per/master1.m3u8
+#EXTINF:0,9 Brisbane
+https://9now-live.akamaized.net/hls/live/708955-b/ch9-bne/master.m3u8
+#EXTINF:0,9 Sydney
+https://9now-live.akamaized.net/hls/live/708951-b/ch9-syd/master1.m3u8
+#EXTINF:0,9 Adelaide
+https://9now-live.akamaized.net/hls/live/708960-b/ch9-adl/master.m3u8
 #EXTINF:0,9Gem
-https://9now-live.akamaized.net/hls/live/705331/gem-mel/master.m3u8
+https://9now-live.akamaized.net/hls/live/705331/gem-mel/master1.m3u8
 #EXTINF:0,9Go!
-https://9now-live.akamaized.net/hls/live/708940/go-mel/master.m3u8
+https://9now-live.akamaized.net/hls/live/708940/go-mel/master1.m3u8
 #EXTINF:0,9Life
-https://9now-live.akamaized.net/hls/live/708947/life-mel/master.m3u8
+https://9now-live.akamaized.net/hls/live/708947/life-mel/master1.m3u8
 #EXTINF:0,Channel 10
 https://network10sec-live-me.akamaized.net/hls/live/735555/10VIC/stream.m3u8
 #EXTINF:0,10 Peach
@@ -91,4 +97,12 @@ https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
 http://p12nFox-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
 #EXTINF:0,MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0,Music 1
+http://www.djing.com/tv/04.m3u8
+#EXTINF:0,Music 2
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:0,Music 3
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:0,North Korea TV
+https://tv.nknews.org/tvhls/stream.m3u8
 
