@@ -1,25 +1,23 @@
 #EXTM3U
-#EXTINF:0,Seinfeld
-https://videoserver1.org/live/6lmqN8MaMfIpzlVYnbcQ1w/1570032242/af1f8d9839dd6ffefedebab89761ee7e.m3u8
-#EXTINF:0,Cops
-https://videoserver2.org/live/-dldGZg8LfJeXoBP02SwQw/1570032643/b9c73e563c9be2c9830b3920a7f5d3a3.m3u8
-#EXTINF:0,Frasier
-https://videoserver2.org/live/VVNqmSVhiECDDT36G8B3kA/1570032798/c485bb561918025e75545506984d363c.m3u8
-#EXTINF:0,Friends
-https://videoserver2.org/live/1MlZmLjCq_IVLj3EXaQVmQ/1570032676/28f20a02bf8a021fab4fcec48afb584e.m3u8
-#EXTINF:0,Simpsons
-https://videoserver2.org/live/a6VUAchTeop12tW6eBD83A/1570032687/3691308f2a4c2f6983f2880d32e29c84.m3u8
-#EXTINF:0,That 70's Show
-https://videoserver1.org/live/mg8QS_9Vz-_oBNViHXsvUw/1570032690/10174e112d64ae5e09f8f955865a5993.m3u8
-#EXTINF:0,Trailer Park Boys
-https://videoserver1.org/live/DsGxQf1UeMhv3MJtCFNShA/1570032694/d12d2c37e8c211f096ea78fd159643ba.m3u8
-#EXTINF:0,Scrubs
-https://videoserver1.org/live/QPvSLK7VWk6ULCg3XBXrOw/1570032711/456727ac6d97e749f87ec95009617bd2.m3u8
-#EXTINF:0,Whose Line
-https://videoserver1.org/live/TsUE_ypmS2-6avD3Xmy_JA/1570032727/9185defbf5f091cd98fe4751b66f91b8.m3u8
-#EXTINF:0,Mythbusters
-https://videoserver1.org/live/0Fmx6NdKs1JQZe8YSkdv5Q/1570032733/516cc19a8d59666bb834868b693a2954.m3u8
-#EXTINF:0,King of the Hill
-https://videoserver2.org/live/bckqZU0fULb6Is6slVFWLQ/1570032734/fa46ec0b4924e8c2194a53ef61b94039.m3u8
+#EXTINF:0,MTV Cribs
+https://stitcher.pluto.tv/stitch/hls/channel/5d4869f42d8f7d75fcee48bc/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5d4869f42d8f7d75fcee48bc
+#EXTINF:0,THC The High Channel
+https://stitcher.pluto.tv/stitch/hls/channel/5633f71888576f124c834ef4/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5633f71888576f124c834ef4
+#EXTINF:0,Fight 
+https://stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5812b0f2237a6ff45d16c3f9
+#EXTINF:0,Crime
+https://stitcher.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5812be1c249444e05d09cc50
+#EXTINF:0,James Bond
+https://stitcher.pluto.tv/stitch/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5d4db961034718b2f52f9e52
+#EXTINF:0,Impact Wrestling
+https://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=59b722526996084038c01e1b
+#EXTINF:0,Glory Kickboxing
+https://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5417a212ff9fba68282fbf5e
+#EXTINF:0,Hells Kitchen
+https://stitcher.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5b4e99f4423e067bd6df6903
+#EXTINF:0,Criss Angel Mindfreak
+https://stitcher.pluto.tv/stitch/hls/channel/5d816172389c9d153be6a448/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5d816172389c9d153be6a448
+#EXTINF:0,Fear Factor
+https://stitcher.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=588128d17d64bc0d0f385c34
 #EXTINF:0,Dog the Bounty Hunter
 https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=x24jbjrh2o33lln3jns6j2tmn0
