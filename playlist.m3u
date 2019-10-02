@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:0,ABS NEWS National
+#EXTINF:0,ABS NEWS
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 #EXTINF:0,ABC MELBOURNE
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8dfc66234f084ed881c52687b675b592/index.m3u8
+#EXTINF:0,ABC Comedy/Kids
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/3c7653c38e0e40fbbbaeaefb02ae6fd1/index.m3u8
+#EXTINF:0,ABC ME
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/c2a88b3fcefb4920b6b52134a453ed9c/index.m3u8
 #EXTINF:0,Seven
 https://npc.cdn.7livecloud.io/hls/live/MEL1/master.m3u8
 #EXTINF:0,7TWO
@@ -47,3 +51,42 @@ https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
 #EXTINF:0,NITV
 https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
+#EXTINF:0,FOX Sports News
+https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8
+#EXTINF:0,Sky Racing 1
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8
+#EXTINF:0,Sky Racing 2
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8
+#EXTINF:0,Thoroughbred Central
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw_extreme@219670.m3u8
+#EXTINF:0,Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:0,Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:0,Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:0,C31 Melbourne
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
+#EXTINF:0,C44 Adelaide
+https://bdz47wk-lh.akamaihd.net/i/bdz47wkxwmnlsh_1@54040/master.m3u8
+#EXTINF:0,WTV Perth
+http://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/playlist_dvr.m3u8
+#EXTINF:0,3AW Melbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+#EXTINF:0,EXPO
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+#EXTINF:0,Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/asia/live/primary.m3u8
+#EXTINF:0,TVSN
+http://tvsn-lh.akamaihd.net/i/TVSN_1@137553/master.m3u8
+#EXTINF:0,ACCTV
+http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_14949_1.m3u8
+#EXTINF:0,Fetch TV Movie Trailers
+http://cdnl.fetchtv.micdn.net.au//trail/mobile.m3u8
+#EXTINF:0,VSIN USA
+https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
+#EXTINF:0,PAC12 Sports USA
+http://p12nFox-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+#EXTINF:0,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
