@@ -27,8 +27,10 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 https://pac12b.cdn.7livecloud.io/index.m3u8
 #EXTINF:0,Outdoor Channel
 https://outdoor.cdn.7livecloud.io/index.m3u8
-#EXTINF:0,Channel 9 Melbourne
+#EXTINF:0,9 Melbourne
 https://9now-live.akamaized.net/hls/live/708954-b/ch9-mel/master.m3u8
+#EXTINF:0,9 Perth
+https://9now-live.akamaized.net/hls/live/708953-b/ch9-per/master.m3u8
 #EXTINF:0,9Gem
 https://9now-live.akamaized.net/hls/live/705331/gem-mel/master.m3u8
 #EXTINF:0,9Go!
