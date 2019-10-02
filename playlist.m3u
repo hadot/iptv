@@ -2,11 +2,13 @@
 #EXTINF:0,ABC NEWS
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 #EXTINF:0,ABC MELBOURNE
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8dfc66234f084ed881c52687b675b592/index_1.m3u8
-#EXTINF:0,ABC Comedy/Kids
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/3c7653c38e0e40fbbbaeaefb02ae6fd1/index.m3u8
+https://i.mjh.nz/au/Melbourne/tv.101002310231.m3u8
+#EXTINF:0,ABC Comedy
+https://i.mjh.nz/au/Melbourne/tv.abc2.m3u8
+#EXTINF:0,ABC KIDS
+https://i.mjh.nz/au/Melbourne/tv.101002210222.m3u8
 #EXTINF:0,ABC ME
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/c2a88b3fcefb4920b6b52134a453ed9c/index.m3u8
+https://i.mjh.nz/au/Melbourne/tv.101002210224.m3u8
 #EXTINF:0,Seven
 https://npc.cdn.7livecloud.io/hls/live/MEL1/master.m3u8
 #EXTINF:0,7TWO
