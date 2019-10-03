@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,ABC NEWS
+#EXTINF:0 group-title="ABC",ABC NEWS
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 #EXTINF:0,ABC MELBOURNE
 https://i.mjh.nz/au/Melbourne/tv.101002310231.m3u8
@@ -9,7 +9,7 @@ https://i.mjh.nz/au/Melbourne/tv.abc2.m3u8
 https://i.mjh.nz/au/Melbourne/tv.101002210222.m3u8
 #EXTINF:0,ABC ME
 https://i.mjh.nz/au/Melbourne/tv.101002210224.m3u8
-#EXTINF:0,Seven
+#EXTINF:0 group-title="SEVEN",Seven
 https://npc.cdn.7livecloud.io/hls/live/MEL1/master.m3u8
 #EXTINF:0,7TWO
 https://npc.cdn.7livecloud.io/hls/live/MEL2/master.m3u8
@@ -29,7 +29,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 https://pac12b.cdn.7livecloud.io/index.m3u8
 #EXTINF:0,Outdoor Channel
 https://outdoor.cdn.7livecloud.io/index.m3u8
-#EXTINF:0,9 Melbourne
+#EXTINF:0 group-title="NINE",9 Melbourne
 https://9now-live.akamaized.net/hls/live/708954-b/ch9-mel/master1.m3u8
 #EXTINF:0,9 Perth
 https://9now-live.akamaized.net/hls/live/708953-b/ch9-per/master1.m3u8
@@ -45,13 +45,13 @@ https://9now-live.akamaized.net/hls/live/705331/gem-mel/master1.m3u8
 https://9now-live.akamaized.net/hls/live/708940/go-mel/master1.m3u8
 #EXTINF:0,9Life
 https://9now-live.akamaized.net/hls/live/708947/life-mel/master1.m3u8
-#EXTINF:0,Channel 10
+#EXTINF:0 group-title="TEN",Channel 10
 https://network10sec-live-me.akamaized.net/hls/live/735555/10VIC/stream.m3u8
 #EXTINF:0,10 Peach
 https://pubads.g.doubleclick.net/ssai/event/QTtJ0VGKQuC1U36Qv06bRg/master.m3u8
 #EXTINF:0,10 Bold
 https://network10sec-live-me.akamaized.net/hls/live/735549/10BoldVIC/stream.m3u8
-#EXTINF:0,SBS ONE
+#EXTINF:0 group-title="SBS",SBS ONE
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
 #EXTINF:0,SBS VICELAND
 https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8
@@ -61,7 +61,7 @@ https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
 #EXTINF:0,NITV
 https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
-#EXTINF:0,FOX Sports News
+#EXTINF:0 group-title="SPORT",FOX Sports News
 https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8
 #EXTINF:0,Sky Racing 1
 http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8
@@ -75,13 +75,13 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:0,Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:0,C31 Melbourne
+#EXTINF:0 group-title="COMMUNITY",C31 Melbourne
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
 #EXTINF:0,C44 Adelaide
 https://bdz47wk-lh.akamaihd.net/i/bdz47wkxwmnlsh_1@54040/master.m3u8
 #EXTINF:0,WTV Perth
 http://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/playlist_dvr.m3u8
-#EXTINF:0,3AW Melbourne
+#EXTINF:0 group-title="OTHER",3AW Melbourne
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 #EXTINF:0,EXPO
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
