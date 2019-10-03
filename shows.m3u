@@ -1,23 +1,101 @@
 #EXTM3U
-#EXTINF:0,MTV Cribs
-https://stitcher.pluto.tv/stitch/hls/channel/5d4869f42d8f7d75fcee48bc/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5d4869f42d8f7d75fcee48bc
-#EXTINF:0,THC The High Channel
-https://stitcher.pluto.tv/stitch/hls/channel/5633f71888576f124c834ef4/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5633f71888576f124c834ef4
-#EXTINF:0,Fight 
-https://stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5812b0f2237a6ff45d16c3f9
-#EXTINF:0,Crime
-https://stitcher.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5812be1c249444e05d09cc50
-#EXTINF:0,James Bond
+#EXTINF:0 group-title="Movies",James Bond
 https://stitcher.pluto.tv/stitch/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5d4db961034718b2f52f9e52
-#EXTINF:0,Impact Wrestling
-https://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=59b722526996084038c01e1b
-#EXTINF:0,Glory Kickboxing
-https://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5417a212ff9fba68282fbf5e
-#EXTINF:0,Hells Kitchen
-https://stitcher.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5b4e99f4423e067bd6df6903
-#EXTINF:0,Criss Angel Mindfreak
-https://stitcher.pluto.tv/stitch/hls/channel/5d816172389c9d153be6a448/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5d816172389c9d153be6a448
-#EXTINF:0,Fear Factor
-https://stitcher.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=588128d17d64bc0d0f385c34
-#EXTINF:0,Dog the Bounty Hunter
-https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=x24jbjrh2o33lln3jns6j2tmn0
+#EXTINF:0 group-title="Movies",Spotlight
+https://stitcher.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5ba3fb9c4b078e0f37ad34e8
+#EXTINF:0 group-title="Movies",Movies
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=564b9ed65fbbbca07e8d09d2
+#EXTINF:0 group-title="Movies",Movies 2
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=59976841a09fd13c9b590ce8
+#EXTINF:0 group-title="Movies",Action
+https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=561d7d484dc7c8770484914a
+#EXTINF:0 group-title="Movies",Comedy
+https://stitcher.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5a4d3a00ad95e4718ae8d8db
+#EXTINF:0 group-title="Movies",Romance
+https://stitcher.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5a66795ef91fef2c7031c599
+#EXTINF:0 group-title="Movies",Drama
+https://stitcher.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5b4e92e4694c027be6ecece1
+#EXTINF:0 group-title="Movies",Horror
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=569546031a619b8f07ce6e25
+#EXTINF:0 group-title="Movies",Terror
+https://stitcher.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5c6dc88fcd232425a6e0f06e
+#EXTINF:0 group-title="Movies",Thrillers
+https://stitcher.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5b4e69e08291147bd04a9fd7
+#EXTINF:0 group-title="Movies",Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=58af4c093a41ca9d4ecabe96
+#EXTINF:0 group-title="Movies",Documentaries
+https://stitcher.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5b85a7582921777994caea63
+#EXTINF:0 group-title="Movies",Indies
+https://stitcher.pluto.tv/stitch/hls/channel/58ed63525e2c798008323a1c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=58ed63525e2c798008323a1c
+#EXTINF:0 group-title="Movies",Paramount Movie Channel
+https://stitcher.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5cb0cae7a461406ffe3f5213
+#EXTINF:0 group-title="Movies",Westerns
+https://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5b4e94282d4ec87bdcbb87cd
+#EXTINF:0 group-title="Movies",Classic Movies
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=561c5b0dada51f8004c4d855
+#EXTINF:0 group-title="Movies",80s Rewind
+https://stitcher.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5ca525b650be2571e3943c63
+#EXTINF:0 group-title="Movies",Cult Films
+https://stitcher.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5c665db3e6c01b72c4977bc2
+#EXTINF:0 group-title="Movies",Flicks of Fury
+https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=58e55b14ad8e9c364d55f717
+#EXTINF:0 group-title="Movies",The Asylum
+https://stitcher.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=591105034c1806b47438342c
+#EXTINF:0 group-title="Movies",Gravitas Movies
+https://stitcher.pluto.tv/stitch/hls/channel/59120e45877eeb3760b3d9da/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=59120e45877eeb3760b3d9da
+#EXTINF:0 group-title="Entertainment",MTV
+https://stitcher.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5ca672f515a62078d2ec0ad2
+#EXTINF:0 group-title="Entertainment",MTV DATING
+https://stitcher.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5ca6899a37b88b269472ea4b
+#EXTINF:0 group-title="Entertainment",MTV TEEN
+https://stitcher.pluto.tv/stitch/hls/channel/5ca68a4737b88b269472f1be/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5ca68a4737b88b269472f1be
+#EXTINF:0 group-title="Entertainment",WHAT?!
+https://stitcher.pluto.tv/stitch/hls/channel/5808e8c360976cdc1b19d374/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5808e8c360976cdc1b19d374
+#EXTINF:0 group-title="Entertainment",VH1 Reality
+https://stitcher.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5d7154fa8326b6ce4ec31f2e
+#EXTINF:0 group-title="Entertainment",VH1 HipHop/Family
+https://stitcher.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5d71561df6f2e6d0b6493bf5
+#EXTINF:0 group-title="Entertainment",BET
+https://stitcher.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5ca670f6593a5d78f0e85aed
+#EXTINF:0 group-title="Entertainment",BET Her
+https://stitcher.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5d51e6949ab8e2b35bdcaa9f
+#EXTINF:0 group-title="Entertainment",BET Homecoming
+https://stitcher.pluto.tv/stitch/hls/channel/5d51e6fd10fd17b31a53085e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5d51e6fd10fd17b31a53085e
+#EXTINF:0 group-title="Entertainment",Spike
+https://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5812bcc8237a6ff45d16c407
+#EXTINF:0 group-title="Entertainment",Spike Outdoors
+https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5c393cad2de254456f7ef8c2
+#EXTINF:0 group-title="Entertainment",American Gladiators
+https://stitcher.pluto.tv/stitch/hls/channel/5d815e489b315b154db2e053/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5d815e489b315b154db2e053
+#EXTINF:0 group-title="Entertainment",Baywatch
+https://stitcher.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5d815eb889bca2ce7b746fdd
+#EXTINF:0 group-title="Entertainment",TV LAND Drama
+https://stitcher.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5d40bebc5e3d2750a2239d7e
+#EXTINF:0 group-title="Entertainment",TV Animals
+https://stitcher.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=56b27f85ff3037045055037e
+#EXTINF:0 group-title="Entertainment",Crime Network
+https://stitcher.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5812be1c249444e05d09cc50
+#EXTINF:0 group-title="Entertainment",DocuTV
+https://stitcher.pluto.tv/stitch/hls/channel/5695441df3ed8937070b1ac6/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5695441df3ed8937070b1ac6
+#EXTINF:0 group-title="Entertainment",Nosey
+https://stitcher.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5aec96ec5126c2157123c657
+#EXTINF:0 group-title="Entertainment",Fuse
+https://stitcher.pluto.tv/stitch/hls/channel/5d486c4834ceb37d3c458a65/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5d486c4834ceb37d3c458a65
+#EXTINF:0 group-title="Entertainment",Complex
+https://stitcher.pluto.tv/stitch/hls/channel/5bb1b439ea5c9e53afd21325/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5bb1b439ea5c9e53afd21325
+#EXTINF:0 group-title="Entertainment",AwesomenessTV
+https://stitcher.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5595e43c66ace1652e63c6a2
+#EXTINF:0 group-title="Entertainment",Degrassi
+https://stitcher.pluto.tv/stitch/hls/channel/5c6eeb85c05dfc257e5a50c4/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5c6eeb85c05dfc257e5a50c4
+#EXTINF:0 group-title="Entertainment",BritishTV
+https://stitcher.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5b68a18823ecb93393cba2f1
+#EXTINF:0 group-title="Entertainment",ClassicTV
+https://stitcher.pluto.tv/stitch/hls/channel/55383613c0b860c11a631e36/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=55383613c0b860c11a631e36
+#EXTINF:0 group-title="Entertainment",BUZZR
+https://stitcher.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=5812bfbe4ced4f7b601b12e6
+#EXTINF:0 group-title="Entertainment",Shout Factory TV
+https://stitcher.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=55a6a3275616b6240c26f393
+#EXTINF:0 group-title="Entertainment",Classic Toons
+https://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=562ea53fa9060c5a7d463e74
+#EXTINF:0 group-title="Entertainment",
+
