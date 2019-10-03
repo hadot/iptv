@@ -105,7 +105,7 @@ sub showdialog()
     keyboarddialog.backgroundUri = "pkg:/images/rsgde_bg_hd.jpg"
     keyboarddialog.title = "Enter .m3u URL"
 
-    keyboarddialog.buttons=["OK","Set back to Demo", "Save"]
+    keyboarddialog.buttons=["OK","Australia","Other","Save"]
     keyboarddialog.optionsDialog=true
 
     m.top.dialog = keyboarddialog
@@ -124,9 +124,11 @@ sub onKeyPress()
         m.save_feed_url.control = "RUN"
         m.top.dialog.close = true
         m.get_channel_list.control = "RUN"
-    else if m.top.dialog.buttonSelected = 1 ' Set back to Demo
+    else if m.top.dialog.buttonSelected = 1 ' Australia
         m.top.dialog.text = "https://raw.githubusercontent.com/hadot/iptv/master/playlist.m3u"
-    else if m.top.dialog.buttonSelected = 2 ' Save
+	else if m.top.dialog.buttonSelected = 2 ' Other
+        m.top.dialog.text = "https://raw.githubusercontent.com/hadot/iptv/master/shows.m3u"
+    else if m.top.dialog.buttonSelected = 3 ' Save
         m.global.feedurl = m.top.dialog.text
         m.save_feed_url.control = "RUN"
         '    m.top.dialog.visible ="false"
