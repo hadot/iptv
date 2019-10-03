@@ -83,28 +83,3 @@ https://bdz47wk-lh.akamaihd.net/i/bdz47wkxwmnlsh_1@54040/master.m3u8
 http://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/playlist_dvr.m3u8
 #EXTINF:0 group-title="OTHER",3AW Melbourne
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
-#EXTINF:0 group-title="OTHER",EXPO
-http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
-#EXTINF:0 group-title="OTHER",Bloomberg
-http://cdn-videos.akamaized.net/btv/desktop/akamai/asia/live/primary.m3u8
-#EXTINF:0 group-title="OTHER",TVSN
-http://tvsn-lh.akamaihd.net/i/TVSN_1@137553/master.m3u8
-#EXTINF:0 group-title="OTHER",ACCTV
-http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_14949_1.m3u8
-#EXTINF:0 group-title="OTHER",Fetch TV Movie Trailers
-http://cdnl.fetchtv.micdn.net.au//trail/mobile.m3u8
-#EXTINF:0 group-title="OTHER",VSIN USA
-https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
-#EXTINF:0 group-title="OTHER",PAC12 Sports USA
-http://p12nFox-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
-#EXTINF:0 group-title="OTHER",MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0 group-title="OTHER",Music 1
-http://www.djing.com/tv/04.m3u8
-#EXTINF:0 group-title="OTHER",Music 2
-http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:0 group-title="OTHER",Music 3
-https://www.djing.com/tv/hits.m3u8
-#EXTINF:0 group-title="OTHER",North Korea TV
-https://tv.nknews.org/tvhls/stream.m3u8
-
