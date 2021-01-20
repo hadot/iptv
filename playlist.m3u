@@ -142,13 +142,11 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/008ee5897af64d96b1d303d11b683b6d/m
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 #EXTINF:0 group-title="OTHER",openshop National
 https://npc.cdn.7livecloud.io/hls/live/ASN/masterSD.m3u8
-#EXTINF:0 group-title="OTHER",RACING.COM	National
+#EXTINF:0 group-title="OTHER",RACING.COM National
 https://npc.cdn.7livecloud.io/hls/live/RAC/masterSD.m3u8
-#EXTINF:0 group-title="OTHER",RACING.COM	Victoria
+#EXTINF:0 group-title="OTHER",RACING.COM Victoria
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:0 group-title="OTHER",PAC-12 Sports National
 https://pac12b.cdn.7livecloud.io/index.m3u8
-#EXTINF:0 group-title="OTHER",Outdoor Channel National
-https://outdoor.cdn.7livecloud.io/index.m3u8
 #EXTINF:0 group-title="OTHER",Fuel TV National
 https://fueltv.cdn.7livecloud.io/hls/live/FTV/master.m3u8
